@@ -1,0 +1,3 @@
+[submodule "nue-fans"]
+	path = nue-fans
+	url = https://github.com/lancard/nue-fans.git
