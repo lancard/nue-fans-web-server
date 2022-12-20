@@ -1,3 +1,6 @@
 [submodule "nue-fans"]
 	path = nue-fans
 	url = https://github.com/lancard/nue-fans.git
+[submodule "korea-flight-database"]
+	path = korea-flight-database
+	url = https://github.com/lancard/korea-flight-database.git
